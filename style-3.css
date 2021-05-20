@@ -16,7 +16,7 @@ h3{
 
 .top-img{
   float: left;
-  height: 140px;
+  height: 180px;
   width: 200px;
   border: solid 2px;
   margin-right: 5px;
@@ -24,7 +24,7 @@ h3{
 }
 .middle-img{
   float:right;
-  height: 140px;
+  height: 180px;
   width:200px;
   border: solid 2px;
   margin-right: 5px;
