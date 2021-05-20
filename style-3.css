@@ -16,17 +16,16 @@ h3{
 
 .top-img{
   float: left;
-  height: 250px;
-  width: 270px;
+  height: 300px;
+  width: 300px;
   border: solid 2px;
   margin-right: 5px;
   border-color: blue;
-   margin-top:50px;
 }
 .middle-img{
   float:right;
   height: 300px;
-  width:270px;
+  width:300px;
   border: solid 2px;
   margin-right: 5px;
   border-color: blue;
