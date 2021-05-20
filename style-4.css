@@ -24,10 +24,10 @@ h3{
 }
 .middle-img{
   float:right;
-  height: 200px;
+  height: 250px;
   width:250px;
   border: solid 2px;
-  margin-right: 5px;
+  margin-left:10px;
   
 }
 a{ 
