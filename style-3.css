@@ -21,6 +21,7 @@ h3{
   border: solid 2px;
   margin-right: 5px;
   border-color: blue;
+   margin-top:50px;
 }
 .middle-img{
   float:right;
@@ -29,7 +30,6 @@ h3{
   border: solid 2px;
   margin-right: 5px;
   border-color: blue;
-  margin-top:50px;
 }
 a{ 
   font-family: cursive;
