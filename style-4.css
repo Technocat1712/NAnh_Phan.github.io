@@ -1,0 +1,52 @@
+body{
+  font-size: 20px;
+  background-color: lightsteelblue;
+  color:darkgreen;
+  font-family: cursive
+}
+h2{
+  text-align: center;
+  border: dashed;
+}
+
+h3{
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.top-img{
+  float: left;
+  height: 140px;
+  width: 200px;
+  border: solid 2px;
+  margin-right: 5px;
+}
+.middle-img{
+  float:right;
+  height: 160px;
+  width:200px;
+  border: solid 2px;
+  margin-right: 5px;
+}
+a{ 
+  font-family: cursive;
+  color: darkred;
+}
+.small-img{
+  float: left;
+  height:40px;
+  width:40px;
+  border: solid 1px;
+  margin-right: 1px;
+}
+.tiny-img{
+  float:right;
+  height:40px;
+  width:40px;
+  border: solid 1px;
+  margin-left: 1px; 
+}
+strong{
+  text-decoration: underline;
+  text-decoration-color: red;
+}

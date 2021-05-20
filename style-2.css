@@ -1,0 +1,42 @@
+body{
+  font-size: 20px;
+  background-color: lightyellow;
+  color:darkgreen;
+  font-family: cursive
+}
+h2{
+  text-align: center;
+  border: dashed;
+}
+
+h3{
+  text-decoration: underline;
+}
+
+.top-img{
+  float: left;
+  height: 160px;
+  width: 200px;
+  border: solid 2px;
+  margin-right: 5px;
+}
+.middle-img{
+  float:right;
+  height: 160px;
+  width:200px;
+  border: solid 2px;
+  margin-left: 5px;
+}
+a{ 
+  font-family: cursive;
+  color: darkred;
+}
+.small-img{
+  float: left;
+  height:40px;
+  width:40px;
+  border: solid 1px;
+  margin-right: 1px;
+  margin-left:
+}
+
