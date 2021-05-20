@@ -1,5 +1,5 @@
 body{
-  font-size: 40px;
+  font-size: 42px;
   background-color: lightcyan;
   color: darkred;
   font-family: cursive
@@ -17,7 +17,7 @@ h3{
 .top-img{
   float: left;
   height: 200px;
-  width: 200px;
+  width: 230px;
   border: solid 2px;
   margin-right: 5px;
   border-color: blue;
@@ -25,7 +25,7 @@ h3{
 .middle-img{
   float:right;
   height: 200px;
-  width:200px;
+  width:230px;
   border: solid 2px;
   margin-right: 5px;
   border-color: blue
