@@ -20,7 +20,7 @@ h3{
   width: 200px;
   border: solid 2px;
   margin-right: 5px;
-   margin-top:80px;
+   margin-top:50px;
 }
 .middle-img{
   float:right;
@@ -36,15 +36,15 @@ a{
 }
 .small-img{
   float: left;
-  height:120px;
-  width:120px;
+  height:100px;
+  width:100px;
   border: solid 1px;
   margin-right: 1px;
 }
 .tiny-img{
   float:right;
-  height:120px;
-  width:120px;
+  height:100px;
+  width:100px;
   border: solid 1px;
   margin-left: 1px; 
 }
