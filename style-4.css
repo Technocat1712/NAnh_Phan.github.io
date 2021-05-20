@@ -16,8 +16,8 @@ h3{
 
 .top-img{
   float: left;
-  height: 250px;
-  width: 200px;
+  height: 350px;
+  width: 300px;
   border: solid 2px;
   margin-right: 5px;
    margin-top:50px;
@@ -36,15 +36,15 @@ a{
 }
 .small-img{
   float: left;
-  height:90px;
-  width:90px;
+  height:80px;
+  width:80px;
   border: solid 1px;
   margin-right: 1px;
 }
 .tiny-img{
   float:right;
-  height:90px;
-  width:90px;
+  height:80px;
+  width:80px;
   border: solid 1px;
   margin-left: 1px; 
 }
