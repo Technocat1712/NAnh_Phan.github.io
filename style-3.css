@@ -3,7 +3,7 @@ body{
   background-color: lightcyan;
   color: darkred;
   font-family: cursive;
-  background-image: url("pinky.jpg");\
+  background-image: url("pinky.jpg");
   background-size: 100%;
 }
 h2{
