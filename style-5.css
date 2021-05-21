@@ -5,6 +5,10 @@ body{
   font-family: cursive;
   background-image: url("pinky.jpg");
 }
+img {
+  width: 100%;
+  height: auto;
+}
 h2{
   text-align: center;
   border: solid 3px;
