@@ -3,6 +3,7 @@ body{
   background-color: lightyellow;
   color:darkgreen;
   font-family: cursive
+    background-image: url("pinky.jpg");
 }
 h2{
   text-align: center;
