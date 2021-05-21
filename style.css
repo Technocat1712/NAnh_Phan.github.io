@@ -4,6 +4,7 @@ body{
   color: darkblue;
   text-align: center;
   font-family: cursive;
+  background-image: url("pinky.jpg");
 }
 p{
   text-align: center;
