@@ -2,7 +2,8 @@ body{
   font-size: 40px;
   background-color: lightsteelblue;
   color:darkgreen;
-  font-family: cursive
+  font-family: cursive;
+  background-image: url("pinky.jpg");
 }
 h2{
   text-align: center;
