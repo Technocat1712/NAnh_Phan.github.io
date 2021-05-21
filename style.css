@@ -5,6 +5,7 @@ body{
   text-align: center;
   font-family: cursive;
   background-image: url("pinky.jpg");
+  background-size: 100%;
 }
 p{
   text-align: center;
