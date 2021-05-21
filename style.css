@@ -75,3 +75,7 @@ strong{
   margin-right: 16px;
   font-size: 17px;
 }
+[class*="col-"] {
+  width: 100%;
+  font-family: cursive;
+}
