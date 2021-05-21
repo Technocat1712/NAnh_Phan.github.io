@@ -4,6 +4,7 @@ body{
   color:darkgreen;
   font-family: cursive;
   background-image: url("pinky.jpg");
+  background-size: 100%;
 }
 h2{
   text-align: center;
